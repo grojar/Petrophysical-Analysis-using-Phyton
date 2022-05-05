@@ -6,7 +6,7 @@
 
 
 - DATA:
-  - LAS files were released by Equinor
+  - All LAS files used here were released by Equinor
   - CSV files released (link to downolad in the notebook)
 
 - JUPYTER NOTEBOOK FILES:
