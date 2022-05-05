@@ -7,4 +7,4 @@
 
 - DATA:
   - LAS files were released by Equinor
--     CSV files also released
+  - CSV files released (link to downolad in the notebook)
