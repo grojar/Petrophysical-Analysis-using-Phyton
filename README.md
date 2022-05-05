@@ -8,3 +8,6 @@
 - DATA:
   - LAS files were released by Equinor
   - CSV files released (link to downolad in the notebook)
+
+- JUPYTER NOTEBOOK FILES:
+  - It the jupyter notebook file name ends with **_es**, means that content has been written in spanish. (**_en** means english language)
