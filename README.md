@@ -5,6 +5,6 @@
 - Water Saturation (Sw) estimation using different equations. (coming soon) :P
 
 
-- DATA
--     LAS files were released by Equinor
+- DATA:
+  - LAS files were released by Equinor
 -     CSV files also released
